@@ -1,7 +1,6 @@
 # Apache Hadoop
 
 [![Java](https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)](https://hadoop.apache.org/)
 [![Apache](https://img.shields.io/badge/apache-red?style=for-the-badge&logo=apache)](https://httpd.apache.org/)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://www.linux.org/)
